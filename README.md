@@ -1,6 +1,6 @@
-# 👨‍🚀 Teerathep Yaisungnoen (ธีรเทพ ใหญ่สูงเนิน)  
+# Teerathep Yaisungnoen (ธีรเทพ ใหญ่สูงเนิน)  
 **Undergraduate Researcher & Embedded Systems Developer**  
-🚀 Department of Control and Instrumentation Engineering, King Mongkut’s University of Technology Thonburi (KMUTT)
+Department of Control and Instrumentation Engineering, King Mongkut’s University of Technology Thonburi (KMUTT)
 
 ---
 
