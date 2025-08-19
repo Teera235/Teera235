@@ -26,8 +26,8 @@ while contributing to **space technology projects** such as CubeSat mission desi
 </p>
 
 - **Satellite Systems**: ADCS, RF Communication, Telemetry & Control  
-- **GIS & Remote Sensing**: Google Earth Engine, NDVI, Raster Data Processing  
-- **Programming**: Python, C++, MATLAB, Embedded Systems (Arduino, ESP32, Raspberry Pi)  
+- **GIS & Remote Sensing**: Google Earth Engine, Copernicus Sentinel-2, NDVI, Raster Data Processing  
+- **Programming**: Python, C++, MATLAB, Embedded Systems(Arduino, Raspberry Pi)  
 - **Control & Instrumentation**: Sensor Fusion, Kalman Filtering, Real-time Systems  
 
 ---
