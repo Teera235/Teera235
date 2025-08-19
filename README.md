@@ -8,7 +8,6 @@ Student
 
 @Control Engineer Student ,KUMTT(King Mongkut's University of Technology Thonburi)
 
-* 🌍  I'm based in NakhonRatchasima, Thailand
 * ✉️  You can contact me at [Yaisungnoenteerathap@gmail.com](mailto:Yaisungnoenteerathap@gmail.com)
 
 ### Skills
