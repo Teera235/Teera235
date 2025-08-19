@@ -2,7 +2,7 @@
 **Satellite Engineer | GIS Engineer**  
 *Control & Instrumentation Engineering Student @ KMUTT (King Mongkut's University of Technology Thonburi)*  
 
-✉️ [Yaisungnoenteerathap@gmail.com](mailto:Yaisungnoenteerathap@gmail.com)  
+[Yaisungnoenteerathap@gmail.com](mailto:Yaisungnoenteerathap@gmail.com)  
 
 ---
 
