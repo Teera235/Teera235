@@ -15,7 +15,7 @@ while contributing to **space technology projects** such as CubeSat mission desi
 
 ---
 
-## 🛰️ Core Skills  
+## Core Skills  
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" /></a>
